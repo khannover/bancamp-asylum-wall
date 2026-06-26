@@ -10,5 +10,6 @@
   "incident_type": "Reach Restriction",
   "reason_category": "",
   "story": "Falsely restricted for fraud/scam. Restriction removed by entering codes sent by email and whatsapp. They admitted it's their fault and apologized.",
-  "verified": false
+  "verified": true,
+  "edited_at": "2026-06-26T21:29:20Z"
 }
