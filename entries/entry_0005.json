@@ -10,5 +10,6 @@
   "incident_type": "Reach Restriction",
   "reason_category": "Alleged Artificial Streaming",
   "story": "Live stream was flagged as \"repetitive\"",
-  "verified": false
+  "verified": true,
+  "edited_at": "2026-06-26T21:28:24Z"
 }
