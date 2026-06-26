@@ -10,6 +10,7 @@
   "incident_type": "Distribution Rejection",
   "reason_category": "",
   "story": "My songs were removed from Bandcamp.com ... that's why i started with Bancamp.de",
-  "verified": false,
-  "verification_requested_at": "2026-06-26T21:47:26Z"
+  "verified": true,
+  "verification_requested_at": "2026-06-26T21:47:26Z",
+  "edited_at": "2026-06-26T21:52:45Z"
 }
