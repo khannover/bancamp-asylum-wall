@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "timestamp": "2026-06-26T18:41:37Z",
+  "submission_type": "signal",
+  "template_id": "distribution_blocked",
+  "account_name": "kai-ai",
+  "platform_profile_url": "https://kai-ai.bandcamp.com",
+  "bancamp_profile": "https://www.bancamp.de/artist/kai",
+  "platform": "Bandcamp",
+  "incident_type": "Distribution Rejection",
+  "reason_category": "",
+  "story": "My songs were removed from Bandcamp.com ... that's why i started with Bancamp.de",
+  "verified": false
+}
