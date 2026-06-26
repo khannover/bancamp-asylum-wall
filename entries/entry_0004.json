@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "timestamp": "2026-06-26T18:42:02Z",
+  "submission_type": "signal",
+  "template_id": "content_removed",
+  "account_name": "kai-ai",
+  "platform_profile_url": "https://kai-ai.bandcamp.com",
+  "bancamp_profile": "https://www.bancamp.de/artist/kai",
+  "platform": "Bandcamp",
+  "incident_type": "Reach Restriction",
+  "reason_category": "Manual Abuse",
+  "story": "All my ongs were removed from bandcamp.com",
+  "verified": false
+}
