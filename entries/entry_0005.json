@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "timestamp": "2026-06-26T18:42:59Z",
+  "submission_type": "signal",
+  "template_id": "fake_streams",
+  "account_name": "khannover38_de",
+  "platform_profile_url": "https://www.tiktok.com/@khannover38_de",
+  "bancamp_profile": "https://www.bancamp.de/artist/kai",
+  "platform": "TikTok",
+  "incident_type": "Reach Restriction",
+  "reason_category": "Alleged Artificial Streaming",
+  "story": "Live stream was flagged as \"repetitive\"",
+  "verified": false
+}
